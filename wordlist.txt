@@ -421,6 +421,7 @@ Referer
 referer
 repo
 RETR
+retransmissions
 Rikard
 ROADMAP
 Rockbox
@@ -588,3 +589,5 @@ Zakrzewski
 Zitzmann
 zlib
 zsh
+msquic
+quictls
